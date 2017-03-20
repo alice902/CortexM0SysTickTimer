@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CortexM0SysTickTimer()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ CortexM0SysTick\ with\ no\ arguments\n
+comment1.params=RVR
+comment1.target=void\ setRVR(int)
+comment10.params=
+comment10.target=void\ tick()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=CVR
+comment2.target=void\ setCVR(int)
+comment3.params=flag
+comment3.target=void\ setEnable(boolean)
+comment4.params=flag
+comment4.target=void\ setTickint(boolean)
+comment5.params=
+comment5.target=int\ getRVR()
+comment6.params=
+comment6.target=int\ getCVR()
+comment7.params=
+comment7.target=boolean\ isCountflag()
+comment8.params=
+comment8.target=boolean\ isEnable()
+comment9.params=
+comment9.target=boolean\ isTickint()
+numComments=12
